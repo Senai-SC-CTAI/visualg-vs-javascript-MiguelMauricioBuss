@@ -1,0 +1,19 @@
+h2{
+    color: rgb(240, 254, 255);
+}
+h4{
+    color: rgb(240, 254, 255);
+}
+p1{
+    color: rgb(240, 254, 255);
+}
+body{
+    background-image: url(https://s1.1zoom.me/b5447/780/Texture_Cloth_Violet_566544_1920x1080.jpg)
+
+}
+input{
+    border-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+            background-color: rgba(255, 255, 255, 0.26);
+    color: rgb(255, 255, 255);
+}
